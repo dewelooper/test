@@ -1,0 +1,28 @@
+From 229f70941f02fd6c1f6d872842d01b57725c7a8f Mon Sep 17 00:00:00 2001
+Message-Id: <229f70941f02fd6c1f6d872842d01b57725c7a8f.1550053429.git.krzysztof.borowski@inprox.pl>
+From: Krzysztof Borowski <krzysztof.borowski@inprox.pl>
+Date: Wed, 13 Feb 2019 11:18:54 +0100
+Subject: [PATCH] dasfd
+
+---
+ three.html | 7 +++----
+ 1 file changed, 3 insertions(+), 4 deletions(-)
+
+diff --git a/three.html b/three.html
+index 6227131..4b5cffa 100644
+--- a/three.html
++++ b/three.html
+@@ -1,7 +1,6 @@
+ <<<<<<< HEAD
+ asfasfasfff
+-fffff
+-=======
++ffff
++==
+ sdfsdfsdf
+-sdfsdfsd
+->>>>>>> dev
++sdfsdf
+-- 
+2.17.1
+
